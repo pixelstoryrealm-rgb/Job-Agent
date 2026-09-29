@@ -1,0 +1,6 @@
+{
+  "name": "YOUR JOB",
+  "description": "AI Job Assistant developed by ASIF - Smart job discovery, AI matching, gestures, application tracker, and CV profile management",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
